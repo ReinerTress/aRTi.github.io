@@ -14,3 +14,4 @@ Pippi ist ein selbstbewusstes neunjähriges Mädchen mit Sommersprossen, dessen 
 Lieblingzitat:
 > Ich mach' mir die Welt, wie sie mir gefaellt
 
+<img src="https://images.prismic.io/astridlindgren/ae49856ef3217ebecaa8c2425b1292bb100d548b_pippi_herrnilsson.jpg?auto=compress,format&w=1440&w=1440"/>
