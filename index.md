@@ -4,7 +4,7 @@ Pippi ist ein selbstbewusstes neunjähriges Mädchen mit Sommersprossen, dessen 
 
 ## Charakter
 * selbstbewusst
-* neunjähriges Mädchen mit Sommerspross
+* neunjähriges Mädchen mit Sommersproen
 * rote Haare
 * zwei abstehenden Zöpfe
 * Pferd
