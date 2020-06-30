@@ -11,3 +11,6 @@ Pippi ist ein selbstbewusstes neunjähriges Mädchen mit Sommersprossen, dessen 
 * Aeffchen
 * lebt in Villa Kunterbunt
 
+Lieblingzitat:
+> Ich mach' mir die Welt, wie sie mir gefaellt
+
